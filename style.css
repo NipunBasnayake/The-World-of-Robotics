@@ -1,0 +1,27 @@
+.img{
+    border-radius: 10px; width: 98%; height: 310px;
+}
+.tr{
+    background: linear-gradient(90deg, rgba(9,9,121,1) 0%, rgba(0,129,255,1) 50%, rgba(9,9,121,1) 100%);
+    /* background-color: #023047; */
+    color: white;
+}
+.td{
+    text-align: center;
+}
+.h1{
+    font-size: 3em;
+    margin-bottom: 0.2em;
+}
+.table{
+    border: 1px solid;
+    border-collapse: collapse;
+}
+.img{
+    border-radius: 10px; width: 98%; height: 310px;
+    border: 3px solid rgb(96, 178, 255);
+}
+#heading{
+    font-size: 4em;
+    margin-bottom: 0.2em;
+}
